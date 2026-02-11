@@ -1,2 +1,2 @@
 # StudyHub
-現在開発中
+Recallの改善を優先します。
